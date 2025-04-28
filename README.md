@@ -10,9 +10,9 @@ This is a sample application to demonstrate how to setup and run Cucumber tests 
 1. **This framework consists of:**<br>
 
 ````
-   Cucumber – 7.6.0 
+   Cucumber – 7.22.1
    Java 17
-   JUnit Jupiter – 5.9.0
+   JUnit Jupiter – 5.13.0-M2
    Maven – 3.9.9
    Selenium – 4.3.0
 ````
